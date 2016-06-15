@@ -1,3 +1,8 @@
 .container {
   padding: 1rem;
 }
+
+td, th {
+  vertical-align: middle;
+  text-align: center;
+}
